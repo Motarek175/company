@@ -624,6 +624,10 @@ a {
     grid-template-columns: 1fr 1fr;
   }
 
+  .imgs .img .imgg img {
+    height: 150px;
+  }
+
   .imgs .img .imgg:nth-child(1) {
     grid-column-start: 1;
     grid-column-end: 2;
